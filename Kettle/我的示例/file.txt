@@ -1,0 +1,30 @@
+short_filename@size@extension@fileState
+Check if a column exists.ktr  @17892@ktr@正常
+File exists.ktr               @19301@ktr@正常
+If field value is null.ktr    @17893@ktr@正常
+Modified Java Script Value.ktr@25893@ktr@正常
+Modified Java Script Value和执行s@31243@ktr@正常
+Null if....ktr                @10242@ktr@正常
+Number range.ktr              @9615@ktr@异常
+Regex Evaluation(正则).ktr      @25588@ktr@正常
+Replace in string.ktr         @17069@ktr@正常
+Sorted Merge.ktr              @24217@ktr@正常
+SwitchCase.ktr                @12958@ktr@正常
+Table exists.ktr              @14531@ktr@正常
+split field to rows Demo.ktr  @8881@ktr@异常
+值映射.ktr                       @19174@ktr@正常
+分组.ktr                        @13935@ktr@正常
+去掉重复的字段.ktr                   @30045@ktr@正常
+合并记录.ktr                      @15783@ktr@正常
+增加常量.ktr                      @14491@ktr@正常
+增加序列.ktr                      @7732@ktr@异常
+字段选择.ktr                      @16674@ktr@正常
+拆分字段.ktr                      @8786@ktr@异常
+排序记录.ktr                      @8786@ktr@异常
+数据库查询.ktr                     @15052@ktr@正常
+数据库连接.ktr                     @13935@ktr@正常
+流查询.ktr                       @14478@ktr@正常
+行转列.ktr                       @12626@ktr@正常
+计算器.ktr                       @25993@ktr@正常
+记录关联 (笛卡尔输出).ktr              @9704@ktr@异常
+过滤记录.ktr                      @14778@ktr@正常
